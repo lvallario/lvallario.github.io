@@ -13,7 +13,7 @@ h1{
 	text-transform: uppercase;
 }
 p{
-	color: white;
+	color: rgb(229,228,232);
 	font-family: "FranklinGothic Book", sans-serif;
 	font-size: 24px;
 	font-weight: normal;
@@ -31,6 +31,8 @@ footer{
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
+	
+
 }
 
 
@@ -47,4 +49,5 @@ a:visited {
 }
 a:active {
   color: #white;
+}
 }
