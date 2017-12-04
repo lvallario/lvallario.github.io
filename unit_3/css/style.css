@@ -1,0 +1,50 @@
+body{
+	background-image:url("images/pinkblue.jpg");
+	background-size: cover;
+}
+h1{
+	color: white;
+	font-family: "FranklinGothic URW Comp", sans-serif;
+	font-size: 80px;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+p{
+	color: white;
+	font-family: "FranklinGothic Book", sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	font-style: italic;
+	text-align: center;
+	text-decoration: none;
+	text-transform: lowercase;
+}
+footer{
+	color: white;
+	font-family: "FranklinGothic URW Comp", sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: #white;
+}

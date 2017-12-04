@@ -1,6 +1,43 @@
-body {
-	background-color: #abc1c3;
+body{
+	background-image:url("images/pinkblue.jpg");
+	background-size: cover;
 }
-h1, p {
+header{
 	color: white;
+	font-family: "FranklinGothic URW Comp", sans-serif;
+	font-size: 72px;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+footer{
+	color: white;
+	font-family: "FranklinGothic URW Comp", sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	position:fixed;
+	bottom:10%;
+	left:31%;
+}
+
+
+a {
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+a:active {
+  color: #white;
 }
