@@ -12,6 +12,10 @@ body{
 	margin: 0 auto;
 }
 
+main{
+	text-align: center;
+}
+
 h1{
 	color: white;
 	font-family: "FranklinGothic URW Comp", sans-serif;
@@ -22,24 +26,24 @@ h1{
 	text-decoration: none;
 	text-transform: uppercase;
 	margin: 1em 1em 1em 1em;
+	display: inline-block;
+	background: rgba(255, 255, 255, .4);
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 0px;
 }
 h2{
-	color: #c1bbba;
+	color: white;
 	font-family: 'BioRhyme', serif;
 	font-size: 24px;
 	font-weight: normal;
 	font-style: italic;
 	text-align: center;
 	text-decoration: none;
-	text-transform: lowercase;
-	border: 1px #c1bbba solid; 
-	display: inline-block;
-	margin-left: 1em;
-	margin-right: 1em;
-
-
-
+	text-transform: lowercase; 
 }
+
 footer{
 	color: white;
 	font-family: "FranklinGothic URW Comp", sans-serif;
@@ -49,7 +53,6 @@ footer{
 	text-align: center;
 	text-decoration: none;
 	text-transform: uppercase;
-	padding-bottom: 1
 	}
 #footer{
 	position:absolute;
