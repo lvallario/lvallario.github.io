@@ -22,7 +22,7 @@ h1{
 	text-decoration: none;
 	text-transform: uppercase;
 	margin: 1em 1em 1em 1em;
-	overflow: auto;
+	display: block;
 }
 h2{
 	color: #c1bbba;
