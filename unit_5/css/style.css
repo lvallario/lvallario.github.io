@@ -32,7 +32,13 @@ h2{
 	text-align: center;
 	text-decoration: none;
 	text-transform: lowercase;
-	border: 10px white solid;
+	border: 1px #c1bbba solid; 
+	display: inline-block;
+	margin-left: 1em;
+	margin-right: 1em;
+
+
+
 }
 footer{
 	color: white;
