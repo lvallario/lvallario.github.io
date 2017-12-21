@@ -22,6 +22,7 @@ h1{
 	text-decoration: none;
 	text-transform: uppercase;
 	margin: 1em 1em 1em 1em;
+	text-overflow: hidden;
 }
 h2{
 	color: #c1bbba;
@@ -35,7 +36,7 @@ h2{
 }
 
 h1,h2{
-	line-height:1;
+	line-height:0;
 }
 footer{
 	color: white;
