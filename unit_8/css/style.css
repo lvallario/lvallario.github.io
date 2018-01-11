@@ -90,7 +90,7 @@ a:hover {
 		font-size:60px;
 	}
 }
-@media (max-height: 550px) {
+@media (max-height: 500px) {
 	h2{ 
 		display:none;
 	}
