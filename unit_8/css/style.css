@@ -90,12 +90,12 @@ a:hover {
 		font-size:60px;
 	}
 }
-@media (max-height: 1400px) {
-	body{
-		font-size:40px;
-	}
+@media (max-height: 550px) {
 	h2{ 
 		display:none;
 	}
 }
+@media (max-height: 392px) {
+	body{ 
+		font-size:50px;
 }
