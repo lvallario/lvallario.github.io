@@ -84,5 +84,10 @@ a:hover {
 	footer{
 		display: block;
 	}
-
+}
+@media (max-width: 460px) {
+	body{
+		font-size:70px;
+	}
+}
 }
