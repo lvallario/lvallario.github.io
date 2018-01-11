@@ -95,7 +95,7 @@ a:hover {
 		display:none;
 	}
 }
-@media (max-height: 550px) and (max-width: 733px) {
+@media (max-height: 415px) and (max-width: 724px) {
 	body{ 
 		font-size:50px;
 }
