@@ -90,4 +90,9 @@ a:hover {
 		font-size:60px;
 	}
 }
+@media (max-height: 570px) {
+	h2{ 
+		display:none;
+	}
+}
 }
